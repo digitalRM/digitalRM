@@ -4,15 +4,15 @@
 
 ---
 
-  -  👋 Hey, I’m **@digitalRM** or **Ruslan**.
+  -  👋  Hey, I’m **@digitalRM** or **Ruslan**.
   
-  -  👀 I’m interested in learning more about coding!
+  -  👀  I’m interested in learning more about coding!
 
-  -  🤖 Developer of [**Mystery's Printer**](https://discord.com/api/oauth2/authorize?client_id=768616796604465172&permissions=2349198400&scope=bot%20applications.commands), a discord bot.
+  -  💻  Developer of [**Mystery's Printer**](https://discord.com/api/oauth2/authorize?client_id=768616796604465172&permissions=2349198400&scope=bot%20applications.commands), a discord bot.
 
 ---
 ```py
-print("Welcome to my profile!")
+print(" Welcome to my profile! ")
 ```
 
 
