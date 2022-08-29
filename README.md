@@ -12,7 +12,7 @@
 
 ---
 ```py
-print(" Welcome to my profile! ")
+print("Welcome to my profile!")
 ```
 
 
