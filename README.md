@@ -1,11 +1,9 @@
 
 ![Mystery's Printer Banner (6)](https://user-images.githubusercontent.com/70782025/186399204-af3833c7-0203-4e03-bb0e-aa574a66d2ca.png)
 
----
 ```js
 console.log("Hi"); // Hey there!
 ```
-
 ---
 
   -  👋  Hey, I’m **@digitalRM** or **Ruslan**.
