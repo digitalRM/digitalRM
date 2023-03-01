@@ -10,7 +10,7 @@ console.log("Hi"); // Hey there!
   
   -  👀  I’m interested in learning more about coding!
 
-  -  💻  Robotics is kinda cool too.
+  -  💻  Robotics is really intresting too.
 
 ---
 ```py
