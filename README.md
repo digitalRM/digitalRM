@@ -8,9 +8,7 @@ console.log("Hi"); // Hey there!
 
   -  👋  Hey, I’m **@digitalRM** or **Ruslan**.
   
-  -  👀  I’m interested in learning more about coding!
-
-  -  💻  Robotics is really intresting too.
+  -  👀  I’m interested in learning more about coding, machine learning, UI, UX, and full stack development!
 
 ---
 ```py
