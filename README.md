@@ -14,6 +14,8 @@ console.log("Hi"); // Hey there!
 ```py
 print("Welcome to my profile!") # Take a look around if you want to.
 ```
+---
+[![My Skills](https://skillicons.dev/icons?i=py,js,react,html,css,figma,github,)](https://skillicons.dev)
 
 
 <!---
