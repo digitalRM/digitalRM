@@ -1,12 +1,12 @@
 
-![digitalRM Head Banner](https://user-images.githubusercontent.com/70782025/201837250-d64a7ffa-ca9b-4bc3-91e7-718954af0152.png)
+![digitalRM Head Banner](https://github.com/digitalRM/digitalRM/assets/70782025/ac77b9bb-503b-4385-8f79-1c322db4c02f)
 
 ```js
 console.log("Hi"); // Hey there!
 ```
 ---
 
-  -  👋  Hey, I’m **@digitalRM** or **Ruslan**.
+  -  👋  Hey, I’m **@digitalRM** or **Ruslan M**.
   
   -  👀  I’m interested in learning more about coding, machine learning, UI, UX, and full stack development!
 
