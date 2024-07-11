@@ -15,7 +15,7 @@ console.log("Hi"); // Hey there!
 print("Welcome to my profile!") # Feel free to look around.
 ```
 ---
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,next,python,git,figma,postgres,supabase,cloudflare,github,bots)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,next,python,git,figma,postgres,supabase,cloudflare,github,bots)](https://skillicons.dev)
 
 
 <!---
